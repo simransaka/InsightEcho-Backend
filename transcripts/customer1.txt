@@ -1,0 +1,15 @@
+Customer: Hi, I ordered a laptop last week and it still hasn’t arrived. I’m really frustrated.
+
+Executive: I’m so sorry to hear that. Let me check the status for you right away.
+
+Customer: I’ve already checked the tracking link. It hasn’t moved in three days.
+
+Executive: I understand how upsetting that must be. I see here that the shipment was delayed due to a logistics issue. I’ll escalate this to our delivery team and request priority handling.
+
+Customer: I just want to know when I’ll get it. I need it for work.
+
+Executive: Absolutely. I’ll make sure you receive an update within the next 2 hours. In the meantime, I’ll also apply a 10% refund for the inconvenience.
+
+Customer: Okay… thank you. I appreciate that.
+
+Executive: You’re welcome. I’ll follow up shortly with a confirmed delivery date.

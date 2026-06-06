@@ -1,0 +1,11 @@
+Agent: Hello, thank you for calling. How can I help you today?
+Customer: My internet has been dropping frequently.
+Agent: Hmm, okay. Did you try restarting your router?
+Customer: Yes, several times.
+Agent: Alright, I’ll schedule a technician, but earliest slot is in 5 days.
+Customer: That’s a long wait. I work from home.
+Agent: I understand, but that’s the soonest we can do.
+Customer: Fine, please book it.
+Agent: Done. You’ll get a confirmation email.
+Customer: Thanks.
+Agent: Goodbye.

@@ -1,0 +1,29 @@
+Agent: TechEase Support, how can I help you?
+
+Customer: Yeah, I’ve called three times already. My internet keeps dropping and no one’s fixed it.
+
+Agent: I understand. Can you confirm your account number?
+
+Customer: I’ve done that already. It’s 54829. Can we just get to the part where you fix it?
+
+Agent: Okay. I’ll check your connection status. One moment.
+
+Customer: Make it quick, please. I’m in the middle of work and this is costing me time.
+
+Agent: Your line shows intermittent drops. Have you restarted your router?
+
+Customer: Of course I have. That’s the first thing anyone does. I’m not clueless.
+
+Agent: Right. I’ll escalate this to our technical team. They’ll reach out in 24–48 hours.
+
+Customer: Seriously? That’s the best you can do? I need this fixed today.
+
+Agent: I’m afraid that’s our standard protocol. I’ll mark it as urgent, but I can’t guarantee same-day resolution.
+
+Customer: Great. So I just sit here and wait while my work suffers. Thanks for nothing.
+
+Agent: I’m sorry for the inconvenience. Is there anything else I can assist with?
+
+Customer: No. You’ve done enough.
+
+Agent: Understood. Goodbye.

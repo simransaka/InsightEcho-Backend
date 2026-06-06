@@ -1,0 +1,33 @@
+Agent: Hello! Thank you for contacting TechEase Support. How can I assist you today?
+
+Customer: Hi, my laptop keeps overheating and shutting down randomly. It’s really frustrating.
+
+Agent: I’m sorry to hear that. Let’s get this sorted. Can you tell me the model and how long you’ve had it?
+
+Customer: It’s a ZenPro X15, about 18 months old. I use it mostly for video editing.
+
+Agent: Got it. Have you noticed if the fan is running louder than usual or if the bottom feels unusually hot?
+
+Customer: Yeah, the fan sounds like a jet engine sometimes. And the base gets really hot within 10 minutes.
+
+Agent: Thanks for confirming. This could be due to dust buildup or thermal paste degradation. Have you tried cleaning the vents or using a cooling pad?
+
+Customer: I’ve cleaned the vents, but I haven’t used a cooling pad yet.
+
+Agent: That’s a good next step. Also, I recommend updating your BIOS and checking for firmware updates. I can guide you through that if you’d like.
+
+Customer: Sure, let’s do that.
+
+Agent: Great. Please visit support.techease.com and enter your serial number. You’ll see the latest BIOS version listed there.
+
+Customer: Okay, I’m on the site now. Found the update.
+
+Agent: Perfect. Download and install it, then restart your laptop. Let me know how it behaves afterward.
+
+Customer: Done. It restarted fine. I’ll monitor it for a few hours.
+
+Agent: Sounds good. If the issue persists, we can schedule a service appointment. Anything else I can help with?
+
+Customer: No, that’s all for now. Thanks for your help!
+
+Agent: You’re very welcome. Have a great day!

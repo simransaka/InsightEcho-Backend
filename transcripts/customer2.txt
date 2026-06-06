@@ -1,0 +1,19 @@
+Customer: Hi, I’m calling because my internet has been down since yesterday. Can you please help me fix it?
+
+Executive: (sighs) Look, we’ve already told people a hundred times, it’s a network issue. You’ll just have to wait.
+
+Customer: I understand, but I work from home and I need internet urgently. Is there any workaround you can suggest?
+
+Executive: No, I don’t have some magic solution for you. Just be patient.
+
+Customer: That’s not very helpful. Can you at least give me an estimated time for when it will be restored?
+
+Executive: Didn’t you hear me the first time? I don’t know. Stop asking the same thing again and again.
+
+Customer: This is very frustrating. I need to know if I should look for alternatives.
+
+Executive: Do whatever you want. It’s not my problem.
+
+Customer: I’d like to escalate this. Can I speak to your manager?
+
+Executive: Fine, hold on. [says with clear irritation]

@@ -1,0 +1,7 @@
+Customer: Hi, I saw your ad for the SmartDesk Pro. Can you tell me more about its features? 
+Executive: Absolutely! The SmartDesk Pro comes with height adjustment, built-in charging ports, and a sleek tempered glass surface. 
+Customer: That sounds great. Is it suitable for dual monitors? Executive: Yes, it supports up to 100 kg, so dual monitors are no problem. It also has cable management slots. 
+Customer: Nice. What’s the warranty period? 
+Executive: You get a 3-year warranty, and we offer free installation within metro cities. 
+Customer: Is there any discount going on right now? Executive: Yes, we’re offering ₹2,000 off for first-time buyers. You can also opt for EMI at no extra cost. 
+Customer: Perfect. I’ll place the order today. Executive: Great choice! I’ll send you the payment link and confirm delivery details right away.
